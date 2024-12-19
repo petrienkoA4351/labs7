@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+pampam pedum pedum 
+000pum!
+Bye bye world!
+Filosofy 4351 
+
+=======
+Bye bye world!
+>>>>>>> parent of b7ed750 (1133)
